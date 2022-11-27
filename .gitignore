@@ -5,3 +5,4 @@ Questions.csv
 Answers.csv
 processed_questions.csv
 models/
+processed_questions_lemmatized.csv

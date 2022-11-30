@@ -7,3 +7,4 @@ processed_questions.csv
 models/
 processed_questions_lemmatized.csv
 questions_nb_predictions.csv
+v1.csv
